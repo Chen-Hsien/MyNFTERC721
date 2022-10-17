@@ -51,20 +51,9 @@ tokenURI -> 重要會放入Token的相關參數
 <img width="288" alt="image" src="https://user-images.githubusercontent.com/24216536/196153912-78dcb8ab-2256-448b-955c-7ec7cc83bbfc.png">   
 <img width="1446" alt="image" src="https://user-images.githubusercontent.com/24216536/196154815-96d08727-1b80-4ae4-847b-c61ab1cc3eaf.png">   
 
-在Detail內也可以看到[contract Address](https://goerli.etherscan.io/address/0x15ef1c3a8f91d6cd9042f1fdac148777fb9ab171)
+在Detail內也可以看到[Contract Address](https://goerli.etherscan.io/address/0x15ef1c3a8f91d6cd9042f1fdac148777fb9ab171)
 這邊來進行Verify Contract。 
 <img width="1446" alt="image" src="https://user-images.githubusercontent.com/24216536/196155376-489fc4bf-9cb9-4b6b-9fa2-f10fab3962ed.png">   
 成功!看到綠勾勾了, 就可以在EtherScan進行合約的互動
 <img width="1446" alt="image" src="https://user-images.githubusercontent.com/24216536/196155772-afa4d20a-4fca-4b7a-9246-cce38c31b148.png">   
 <img width="1446" alt="image" src="https://user-images.githubusercontent.com/24216536/196155940-044685c5-05eb-4e8e-a775-cbd1bd23b984.png">
-
-
-
-
-
-
- 
- 
- 
- 
- 
