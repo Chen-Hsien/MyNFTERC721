@@ -26,7 +26,7 @@ tokenURI -> 重要會放入Token的相關參數
     function setBaseURI(string memory _str) external{
         baseURI_ = _str;
     }
-    ```
+ ```
        
  調整好後，部署到測試網上，因為在constructor就設mint五個出來, try一下tokenURI是否會報錯
  <img width="285" alt="image" src="https://user-images.githubusercontent.com/24216536/196143592-b8199ab4-3c8f-4ef7-8a93-6efb92b9055d.png">.  
